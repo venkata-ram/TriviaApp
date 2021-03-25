@@ -36,7 +36,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/titleTextView"
         app:layout_constraintVertical_bias="0.126"
-        app:cardBackgroundColor="@color/light_sandal"/>
+        app:cardBackgroundColor="@color/light_sandal">
+
+        <TextView
+            android:id="@+id/question_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="we are qoing to add questions here"
+            android:textSize="18sp" />
+    </androidx.cardview.widget.CardView>
 
     <Button
         android:id="@+id/true_button"
