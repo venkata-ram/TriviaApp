@@ -6,4 +6,6 @@
     <string name="previous_button">previous button</string>
     <string name="next_button">next button</string>
     <string name="counter_text">1 out of 900</string>
+    <string name="your_score_text">Your score : 0</string>
+    <string name="high_score_text">High score : 0</string>
 </resources>
